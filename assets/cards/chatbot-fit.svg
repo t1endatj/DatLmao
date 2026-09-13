@@ -20,8 +20,8 @@
 
   <!-- Description -->
   <text x="20" y="55" class="desc">
-    <tspan x="20" dy="0">Trợ lý AI Khoa CNTT HCMUTE: Monorepo Next.js,</tspan>
-    <tspan x="20" dy="17">FastAPI, LangGraph Agentic RAG &amp; Hybrid Search</tspan>
+    <tspan x="20" dy="0">Trợ lý AI Khoa CNTT HCMUTE: Tra cứu quy chế,</tspan>
+    <tspan x="20" dy="17">hỏi đáp học vụ &amp; hỗ trợ sinh viên thông minh</tspan>
   </text>
 
   <!-- Footer Info -->
