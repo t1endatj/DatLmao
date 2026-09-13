@@ -65,7 +65,7 @@
 
   <!-- Live Pulsing Dot & Track Title -->
   <circle cx="75" cy="38" r="4" class="pulse-dot"/>
-  <text x="88" y="43" class="title">Midnight Code Odyssey 🎧</text>
+  <text x="88" y="43" class="title">Take These Pieces 🎧</text>
 
   <!-- Audio Equalizer Dancing Bars -->
   <g fill="url(#bar-grad)">

@@ -36,9 +36,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=4xDzrJKXOOY" target="_blank" title="Click to listen to 24/7 Synthwave & Lo-Fi Coding Radio">
-    <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack (Click to Play)" />
-  </a>
+  <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack" />
+  <br/><br/>
+  <video src="https://github.com/user-attachments/assets/dabe6294-2677-4512-9c87-2d7babbfea7d" controls="controls" width="100%"></video>
 </div>
 
 ---
