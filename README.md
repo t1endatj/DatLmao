@@ -52,6 +52,10 @@
   <a href="https://photo.hcmutertic.com" target="_blank" title="Modern Photobooth Kiosk • Click to visit website">
     <img src="assets/cards/photo-booth.svg" width="395" alt="Modern Photobooth Kiosk" />
   </a>
+  <br/>
+  <a href="http://25nam.fit.hcmute.edu.vn/" target="_blank" title="FIT HCMUTE 25 Years • Click to visit website">
+    <img src="assets/cards/fit-25years.svg" width="395" alt="FIT HCMUTE 25 Years" />
+  </a>
 </div>
 
 ---
