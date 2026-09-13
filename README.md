@@ -157,6 +157,11 @@
 </blockquote>
 </details>
 
+<div align="center">
+  <img src="assets/explorer-footer.svg" width="100%" alt="Explorer Window Footer" />
+</div>
+
+<br/>
 
 ---
 
