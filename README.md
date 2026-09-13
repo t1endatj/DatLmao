@@ -77,7 +77,9 @@
   <a href="https://gsap.com/" target="_blank" title="GSAP"><img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://ui.shadcn.com/" target="_blank" title="shadcn/ui"><img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="48" height="48" alt="shadcn/ui" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://magicui.design/" target="_blank" title="Magic UI"><img src="assets/icons/magicui.png" width="48" height="48" alt="Magic UI" align="middle" /></a>&nbsp;&nbsp;
-  <a href="https://www.originkit.dev/" target="_blank" title="OriginKit"><img src="assets/icons/originkit.png" width="48" height="48" alt="OriginKit" align="middle" /></a>
+  <a href="https://www.originkit.dev/" target="_blank" title="OriginKit"><img src="assets/icons/originkit.png" width="48" height="48" alt="OriginKit" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://mui.com/material-ui/" target="_blank" title="Material UI"><img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://ant.design/components/overview/" target="_blank" title="Ant Design"><img src="assets/icons/antdesign.svg" width="48" height="48" alt="Ant Design" align="middle" /></a>
 </div>
 <br/>
 </details>
