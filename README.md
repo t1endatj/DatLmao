@@ -8,8 +8,10 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=t1endatj&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Location-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-0D1117?style=flat-square&logo=googlemaps&logoColor=red" alt="Vietnam" />
-    <img src="https://img.shields.io/badge/Focus-Web%20Development-7928CA?style=flat-square&logo=webcomponents.org&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Exploring-7928CA?style=flat-square&logo=rocket&logoColor=white" alt="Status" />
+    <a href="https://github.com/t1endatj">
+      <img src="https://img.shields.io/badge/GitHub-%40t1endatj-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
     <a href="mailto:datnguyendat2006@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Gmail-FF0080?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -18,29 +20,24 @@
 
 ---
 
-> [!TIP]
-> 💡 **Core Philosophy**: *"The best interface is the one users don't notice."* — Striving to build fast, accessible, and beautiful web experiences that just work.
-
----
-
-### 🖥️ About Me
+## 🖥️ Developer Workspace
 
 <table>
 <tr>
-<td valign="middle" width="50%">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=00F0FF&width=380&height=30&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+profile!;Let%27s+build+something+great." alt="Typing" />
-<br/><br/>
-<img src="https://img.shields.io/badge/%40t1endatj-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Vietnam-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Web%20Developer-00F0FF?style=for-the-badge&logo=html5&logoColor=0D1117" />
+<td width="54%" valign="middle">
+<img src="assets/terminal.svg" width="100%" alt="Developer Terminal" />
 </td>
-<td valign="middle" width="50%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+<td width="46%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack" />
+</div>
 
 ---
 

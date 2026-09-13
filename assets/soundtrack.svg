@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 100" width="100%" height="auto">
+  <defs>
+    <linearGradient id="sound-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#7928CA" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FF0080" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="bar-grad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#7928CA"/>
+      <stop offset="100%" stop-color="#FF0080"/>
+    </linearGradient>
+    <linearGradient id="disc-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7928CA"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 700; fill: #F0F6FC; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #8B949E; }
+    .badge { font-family: ui-monospace, SFMono-Regular, monospace; font-size: 10px; font-weight: 700; fill: #00F0FF; letter-spacing: 1px; }
+
+    @keyframes live-pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+    }
+    .pulse-dot { animation: live-pulse 1.8s ease-in-out infinite; transform-origin: 24px 25px; fill: #3FB950; }
+
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+    .disc-spin { animation: spin 8s linear infinite; transform-origin: 45px 50px; }
+
+    @keyframes bar-anim-1 { 0%, 100% { height: 6px; y: 64px; } 50% { height: 32px; y: 38px; } }
+    @keyframes bar-anim-2 { 0%, 100% { height: 18px; y: 52px; } 50% { height: 8px; y: 62px; } }
+    @keyframes bar-anim-3 { 0%, 100% { height: 10px; y: 60px; } 50% { height: 36px; y: 34px; } }
+    @keyframes bar-anim-4 { 0%, 100% { height: 26px; y: 44px; } 50% { height: 12px; y: 58px; } }
+
+    .b1 { animation: bar-anim-1 1.1s ease-in-out infinite; }
+    .b2 { animation: bar-anim-2 0.9s ease-in-out infinite 0.15s; }
+    .b3 { animation: bar-anim-3 1.3s ease-in-out infinite 0.3s; }
+    .b4 { animation: bar-anim-4 0.8s ease-in-out infinite 0.1s; }
+    .b5 { animation: bar-anim-1 1.0s ease-in-out infinite 0.4s; }
+    .b6 { animation: bar-anim-3 1.2s ease-in-out infinite 0.2s; }
+    .b7 { animation: bar-anim-2 0.75s ease-in-out infinite 0.35s; }
+    .b8 { animation: bar-anim-4 1.15s ease-in-out infinite 0.05s; }
+    .b9 { animation: bar-anim-1 0.95s ease-in-out infinite 0.25s; }
+    .b10 { animation: bar-anim-3 1.05s ease-in-out infinite 0.45s; }
+    .b11 { animation: bar-anim-2 0.85s ease-in-out infinite 0.12s; }
+    .b12 { animation: bar-anim-4 1.25s ease-in-out infinite 0.28s; }
+    .b13 { animation: bar-anim-1 0.7s ease-in-out infinite 0.18s; }
+    .b14 { animation: bar-anim-3 1.1s ease-in-out infinite 0.32s; }
+  </style>
+
+  <!-- Container -->
+  <rect x="1" y="1" width="538" height="98" rx="12" fill="#0D1117" stroke="url(#sound-border)" stroke-width="1.5"/>
+
+  <!-- Spinning Vinyl / Disc Icon -->
+  <g class="disc-spin">
+    <circle cx="45" cy="50" r="24" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+    <circle cx="45" cy="50" r="18" fill="none" stroke="#21262D" stroke-width="1"/>
+    <circle cx="45" cy="50" r="12" fill="none" stroke="#30363D" stroke-width="1"/>
+    <circle cx="45" cy="50" r="7" fill="url(#disc-grad)"/>
+    <circle cx="45" cy="50" r="2.5" fill="#0D1117"/>
+  </g>
+
+  <!-- Track Information -->
+  <g transform="translate(85, 0)">
+    <!-- Header status -->
+    <circle cx="0" cy="27" r="4" class="pulse-dot"/>
+    <text x="12" y="30" class="badge">CODING SOUNDTRACK • LO-FI &amp; SYNTHWAVE</text>
+
+    <!-- Track title -->
+    <text x="0" y="54" class="title">Midnight Code Odyssey 🎧</text>
+    <text x="0" y="73" class="subtitle">Deep Focus, Flow State &amp; Smooth Web Crafting</text>
+  </g>
+
+  <!-- Audio Equalizer Dancing Bars -->
+  <g fill="url(#bar-grad)">
+    <rect x="420" y="64" width="4" height="6" rx="2" class="b1"/>
+    <rect x="427" y="52" width="4" height="18" rx="2" class="b2"/>
+    <rect x="434" y="60" width="4" height="10" rx="2" class="b3"/>
+    <rect x="441" y="44" width="4" height="26" rx="2" class="b4"/>
+    <rect x="448" y="64" width="4" height="6" rx="2" class="b5"/>
+    <rect x="455" y="60" width="4" height="10" rx="2" class="b6"/>
+    <rect x="462" y="52" width="4" height="18" rx="2" class="b7"/>
+    <rect x="469" y="44" width="4" height="26" rx="2" class="b8"/>
+    <rect x="476" y="64" width="4" height="6" rx="2" class="b9"/>
+    <rect x="483" y="60" width="4" height="10" rx="2" class="b10"/>
+    <rect x="490" y="52" width="4" height="18" rx="2" class="b11"/>
+    <rect x="497" y="44" width="4" height="26" rx="2" class="b12"/>
+    <rect x="504" y="64" width="4" height="6" rx="2" class="b13"/>
+    <rect x="511" y="60" width="4" height="10" rx="2" class="b14"/>
+  </g>
+</svg>
