@@ -158,43 +158,6 @@
 
 ---
 
-## 🔍 More About Me
-
-<details>
-  <summary><b>⚡ Quick Facts & Interests</b></summary>
-  <br/>
-  <ul>
-    <li>🌱 <b>Learning Path:</b> Constantly exploring systems design, advanced algorithms, and full-stack software architecture.</li>
-    <li>🎯 <b>Problem Solving:</b> Enjoy competitive programming challenges and optimizing time/space complexities.</li>
-    <li>🎧 <b>Vibe:</b> Coding is best paired with high-focus synthwave or lo-fi beats.</li>
-    <li>💬 <b>Collaboration:</b> Always interested in discussing tech innovations and open-source contributions.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🖥️ Developer Workspace & Hardware</b></summary>
-  <br/>
-  <table>
-    <tr><td><b>CPU</b></td><td>12th Gen Intel® Core™ i7-12700H</td></tr>
-    <tr><td><b>OS</b></td><td>Windows 11 + WSL2 (Linux)</td></tr>
-    <tr><td><b>Editor</b></td><td>Visual Studio Code</td></tr>
-    <tr><td><b>Shell</b></td><td>PowerShell 7 & Zsh</td></tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>🎯 Goals & Milestones — 2026</b></summary>
-  <br/>
-  <ul>
-    <li>✅ Build automated CI/CD workflows and a rich GitHub portfolio</li>
-    <li>⬜ Develop and deploy high-performance applications with modern stacks</li>
-    <li>⬜ Deep dive into low-level systems programming and software engineering patterns</li>
-    <li>⬜ Expand contributions to the global open-source community</li>
-  </ul>
-</details>
-
----
-
 ## 📬 Connect
 
 <div align="center">
@@ -209,9 +172,6 @@
   </a>
   <a href="mailto:datnguyendat2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://t.me/t1endatj" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
