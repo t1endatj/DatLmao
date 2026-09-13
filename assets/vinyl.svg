@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="100%" height="auto">
+  <defs>
+    <linearGradient id="vinyl-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#056BAC"/>
+      <stop offset="50%" stop-color="#0070F3"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+    <radialGradient id="disc-shine" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#21262D"/>
+      <stop offset="60%" stop-color="#161B22"/>
+      <stop offset="85%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#056BAC" stop-opacity="0.6"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+    .rotating-disc {
+      animation: spin 6s linear infinite;
+      transform-origin: 80px 80px;
+    }
+    .glow-ring {
+      filter: drop-shadow(0 0 6px #00F0FF88);
+    }
+  </style>
+
+  <!-- Animated Rotating Vinyl Record -->
+  <g class="rotating-disc">
+    <!-- Outer Vinyl Body -->
+    <circle cx="80" cy="80" r="74" fill="url(#disc-shine)" stroke="#30363D" stroke-width="2"/>
+    <circle cx="80" cy="80" r="75" fill="none" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" class="glow-ring"/>
+
+    <!-- Vinyl Grooves -->
+    <circle cx="80" cy="80" r="64" fill="none" stroke="#21262D" stroke-width="1.2"/>
+    <circle cx="80" cy="80" r="54" fill="none" stroke="#30363D" stroke-width="1"/>
+    <circle cx="80" cy="80" r="44" fill="none" stroke="#21262D" stroke-width="1.2"/>
+    <circle cx="80" cy="80" r="36" fill="none" stroke="#30363D" stroke-width="0.8"/>
+
+    <!-- Center Label -->
+    <circle cx="80" cy="80" r="28" fill="url(#vinyl-glow)"/>
+    <circle cx="80" cy="80" r="24" fill="#0D1117"/>
+
+    <!-- Inner Center Details -->
+    <circle cx="80" cy="80" r="14" fill="url(#vinyl-glow)" fill-opacity="0.85"/>
+    <circle cx="80" cy="80" r="6" fill="#0D1117"/>
+
+    <!-- Stylized Musical Notes / Accent Lines on Label -->
+    <path d="M 72 76 Q 80 70 88 76" stroke="#00F0FF" stroke-width="1.5" fill="none"/>
+    <path d="M 72 84 Q 80 90 88 84" stroke="#00F0FF" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

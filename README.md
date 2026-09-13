@@ -36,13 +36,20 @@
 <br/>
 
 <div align="center">
-<details>
-<summary>
-  <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack (Click to Play)" />
-</summary>
-<br/>
-<video src="https://github.com/user-attachments/assets/dabe6294-2677-4512-9c87-2d7babbfea7d" controls="controls" width="100%"></video>
-</details>
+  <table width="640">
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <img src="assets/vinyl.svg" width="110" height="110" alt="Vinyl Disc" />
+    </td>
+    <td width="72%" valign="middle">
+      <p align="left">
+        <b>🎧 Take These Pieces</b> &nbsp;<code>[Coding Soundtrack]</code><br/>
+        <sub>▶️ Click play below to listen inline</sub>
+      </p>
+      <video src="https://github.com/user-attachments/assets/dabe6294-2677-4512-9c87-2d7babbfea7d" controls="controls" width="100%"></video>
+    </td>
+  </tr>
+  </table>
 </div>
 
 ---
