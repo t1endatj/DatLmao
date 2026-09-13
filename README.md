@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F0FF,50:7928CA,100:FF0080&height=230&section=header&text=Nguyen%20Tien%20Dat&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=%F0%9F%8C%90%20Web%20Developer&descSize=22&descAlignY=60" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:056BAC,100:00F0FF&height=230&section=header&text=Nguyen%20Tien%20Dat&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=%F0%9F%8C%90%20Web%20Developer&descSize=22&descAlignY=60" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/t1endatj">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+space;%F0%9F%8C%90+Crafting+web+experiences+with+passion;%F0%9F%9A%80+Always+learning%2C+building%2C+and+exploring!" alt="Typing SVG" />
@@ -8,12 +8,12 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=t1endatj&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20%26%20Exploring-7928CA?style=flat-square&logo=rocket&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Exploring-056BAC?style=flat-square&logo=rocket&logoColor=white" alt="Status" />
     <a href="https://github.com/t1endatj">
       <img src="https://img.shields.io/badge/GitHub-%40t1endatj-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:datnguyendat2006@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Gmail-FF0080?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Contact-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -126,7 +126,7 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/t1endatj">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=t1endatj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7928CA&text_color=c9d1d9" alt="Dat's GitHub Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=t1endatj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=056BAC&text_color=c9d1d9" alt="Dat's GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="top">
@@ -140,7 +140,7 @@
   <br/>
 
   <a href="https://github.com/t1endatj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1endatj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=7928CA&fire=00F0FF&currStreakNum=00F0FF" alt="Dat's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1endatj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=056BAC&fire=00F0FF&currStreakNum=00F0FF" alt="Dat's GitHub Streak" />
   </a>
 </div>
 
@@ -212,5 +212,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F0FF,50:7928CA,100:FF0080&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:056BAC,100:00F0FF&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>

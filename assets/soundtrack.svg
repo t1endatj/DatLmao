@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 100" width="100%" height="auto">
   <defs>
     <linearGradient id="sound-border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.6"/>
-      <stop offset="50%" stop-color="#7928CA" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#FF0080" stop-opacity="0.6"/>
+      <stop offset="0%" stop-color="#056BAC" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#0070F3" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0.8"/>
     </linearGradient>
     <linearGradient id="bar-grad" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#00F0FF"/>
-      <stop offset="50%" stop-color="#7928CA"/>
-      <stop offset="100%" stop-color="#FF0080"/>
+      <stop offset="0%" stop-color="#056BAC"/>
+      <stop offset="50%" stop-color="#0070F3"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
     </linearGradient>
     <linearGradient id="disc-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7928CA"/>
+      <stop offset="0%" stop-color="#056BAC"/>
       <stop offset="100%" stop-color="#00F0FF"/>
     </linearGradient>
   </defs>
@@ -25,7 +25,7 @@
       0%, 100% { opacity: 1; transform: scale(1); }
       50% { opacity: 0.4; transform: scale(0.85); }
     }
-    .pulse-dot { animation: live-pulse 1.8s ease-in-out infinite; transform-origin: 24px 25px; fill: #3FB950; }
+    .pulse-dot { animation: live-pulse 1.8s ease-in-out infinite; transform-origin: 24px 25px; fill: #00F0FF; }
 
     @keyframes spin {
       100% { transform: rotate(360deg); }
