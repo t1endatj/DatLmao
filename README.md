@@ -129,6 +129,8 @@
   <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://swagger.io/" target="_blank" title="Swagger"><img src="assets/icons/swagger.svg" width="48" height="48" alt="Swagger" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://nginx.org/" target="_blank" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.prisma.io/" target="_blank" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://vercel.com/" target="_blank" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://vite.dev/" target="_blank" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" align="middle" /></a>
 </div>
