@@ -36,8 +36,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=AVg6lg7SWOw" target="_blank" title="Click to listen to Take These Pieces on YouTube">
-    <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack (Click to Play)" />
+  <a href="https://www.youtube.com/watch?v=AVg6lg7SWOw" target="_blank" title="Audio Visualizer • Click to listen on YouTube">
+    <img src="assets/soundtrack.svg" width="100%" alt="Audio Visualizer Wave" />
   </a>
 </div>
 
