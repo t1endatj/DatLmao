@@ -75,7 +75,7 @@
     <tspan class="k">"specialties"</tspan><tspan class="p">: [</tspan><tspan class="s-blue">"Modern UI/UX"</tspan><tspan class="p">, </tspan><tspan class="s-blue">"Interactive Web"</tspan><tspan class="p">],</tspan>
   </text>
   <text class="code" x="40" y="192">
-    <tspan class="k">"focus"</tspan><tspan class="p">: </tspan><tspan class="s">"Creative UI &amp; modern frontend libs (shadcn, animations)"</tspan>
+    <tspan class="k">"focus"</tspan><tspan class="p">: </tspan><tspan class="s">"Exploring &amp; using modern frontend libs (shadcn, web effects)"</tspan>
   </text>
   <text class="code" x="24" y="214">
     <tspan class="p">}</tspan>

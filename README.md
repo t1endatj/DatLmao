@@ -50,7 +50,7 @@
 </div>
 
 <details open>
-<summary><b>📁 workspace / tech-stack</b> <code>(click to collapse / expand)</code></summary>
+<summary><b>📁 tech-stack</b> <code>(click to collapse / expand)</code></summary>
 <br/>
 
 <blockquote>

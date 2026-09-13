@@ -26,7 +26,7 @@
   <circle cx="60" cy="20" r="6" fill="#27C93F"/>
 
   <!-- Center Title -->
-  <text x="400" y="24" text-anchor="middle" class="title">📁 EXPLORER : TECH-STACK (WORKSPACE)</text>
+  <text x="400" y="24" text-anchor="middle" class="title">📁 EXPLORER : TECH-STACK</text>
 
   <!-- Right Git Status Indicator -->
   <g transform="translate(680, 24)">
