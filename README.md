@@ -36,9 +36,9 @@
 <br/>
 
 <div align="center">
-  <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack" />
-  <br/><br/>
-  <video src="https://github.com/user-attachments/assets/dabe6294-2677-4512-9c87-2d7babbfea7d" controls="controls" width="100%"></video>
+  <a href="https://github.com/user-attachments/assets/dabe6294-2677-4512-9c87-2d7babbfea7d" target="_blank" title="Click to Play: Take These Pieces 🎧">
+    <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack (Click to Play)" />
+  </a>
 </div>
 
 ---
