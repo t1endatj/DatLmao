@@ -72,7 +72,7 @@
     <tspan class="k">"location"</tspan><tspan class="p">: </tspan><tspan class="s-green">"Vietnam"</tspan><tspan class="p">,</tspan>
   </text>
   <text class="code" x="40" y="170">
-    <tspan class="k">"specialties"</tspan><tspan class="p">: [</tspan><tspan class="s-blue">"Modern UI/UX"</tspan><tspan class="p">, </tspan><tspan class="s-blue">"Interactive Web"</tspan><tspan class="p">, </tspan><tspan class="s-blue">"REST APIs"</tspan><tspan class="p">],</tspan>
+    <tspan class="k">"specialties"</tspan><tspan class="p">: [</tspan><tspan class="s-blue">"Modern UI/UX"</tspan><tspan class="p">, </tspan><tspan class="s-blue">"Interactive Web"</tspan><tspan class="p">, </tspan><tspan class="s-blue">"Backend Services"</tspan><tspan class="p">],</tspan>
   </text>
   <text class="code" x="40" y="192">
     <tspan class="k">"focus"</tspan><tspan class="p">: </tspan><tspan class="s">"Exploring &amp; using modern frontend libs"</tspan>
