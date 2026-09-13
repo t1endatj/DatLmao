@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 28" width="100%" height="auto">
+  <defs>
+    <linearGradient id="exp-border-footer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#056BAC" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#0070F3" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="exp-footer-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .status-text { font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10.5px; fill: #8B949E; font-weight: 500; }
+    .center-text { font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10.5px; fill: #00F0FF; font-weight: 500; letter-spacing: 0.3px; }
+    .right-text { font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10.5px; fill: #8B949E; font-weight: 400; }
+    .separator { fill: #30363D; }
+  </style>
+
+  <!-- Window Footer Body with Rounded Bottom Corners -->
+  <path d="M 1 0 L 799 0 L 799 17 A 10 10 0 0 1 789 27 L 11 27 A 10 10 0 0 1 1 17 Z" fill="url(#exp-footer-bg)" stroke="url(#exp-border-footer)" stroke-width="1.2"/>
+  <line x1="1" y1="0" x2="799" y2="0" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Left Status: Ready indicator -->
+  <g transform="translate(20, 18)">
+    <circle cx="0" cy="-4" r="3.5" fill="#27C93F"/>
+    <text x="10" y="0" class="status-text">⚡ Ready</text>
+    <text x="70" y="0" class="separator">|</text>
+    <text x="82" y="0" class="status-text">34 Techs Loaded</text>
+  </g>
+
+  <!-- Center Text -->
+  <text x="400" y="18" text-anchor="middle" class="center-text">🚀 Continuously Exploring &amp; Expanding Stack</text>
+
+  <!-- Right Status: Editor info -->
+  <g transform="translate(780, 18)">
+    <text x="0" y="0" text-anchor="end" class="right-text">UTF-8 &#160;•&#160; Prettier &#160;•&#160; ⎇ main</text>
+  </g>
+</svg>
