@@ -41,57 +41,68 @@ const dat = {
 
 ## 🛠️ Tech Stack
 
+<details open>
+<summary><b>📁 tech-stack</b></summary>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>frontend</b></summary>
+<br/>
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🎨 Frontend**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" /></a>
-
-</td>
-<td align="center" width="50%">
-
-**✨ Frontend Libraries**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" /></a>
-<img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" title="GSAP" />
-<img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="48" height="48" alt="shadcn/ui" title="shadcn/ui" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**⚙️ Backend Frameworks**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Gin (Go)" title="Gin (Go)" />
-
-</td>
-<td align="center">
-
-**🗄️ Database**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🖥️ OS**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" /></a>
-
-</td>
-<td align="center">
-
-**🔧 Tools & IDE**<br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,powershell&theme=dark" /></a>
-
-</td>
-</tr>
-</table>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" /></a>
 </div>
+<br/>
+</details>
 
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>frontend-libraries</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" /></a>
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" title="GSAP" />
+  <img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="48" height="48" alt="shadcn/ui" title="shadcn/ui" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>backend-frameworks</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Gin (Go)" title="Gin (Go)" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>database</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
+</div>
+<br/>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>os</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" /></a>
+</div>
+<br/>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>tools-and-ide</b></summary>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,powershell&theme=dark" /></a>
+</div>
+<br/>
+</details>
+
+</details>
 
 
 ---
