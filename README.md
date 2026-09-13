@@ -59,18 +59,25 @@
 <summary><b>├── 📂 frontend</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" align="middle" /></a>
 </div>
 <br/>
 </details>
 
-<details>
+<details open>
 <summary><b>├── 📂 frontend-libraries</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" align="middle" /></a>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" title="GSAP" align="middle" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="48" height="48" alt="shadcn/ui" title="shadcn/ui" align="middle" />
+  <a href="https://threejs.org/" target="_blank" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://gsap.com/" target="_blank" title="GSAP"><img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://ui.shadcn.com/" target="_blank" title="shadcn/ui"><img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="48" height="48" alt="shadcn/ui" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://magicui.design/" target="_blank" title="Magic UI"><img src="assets/icons/magicui.png" width="48" height="48" alt="Magic UI" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.originkit.dev/" target="_blank" title="OriginKit"><img src="assets/icons/originkit.png" width="48" height="48" alt="OriginKit" align="middle" /></a>
 </div>
 <br/>
 </details>
@@ -79,8 +86,9 @@
 <summary><b>├── 📂 backend-frameworks</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" align="middle" /></a>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Gin (Go)" title="Gin (Go)" align="middle" />
+  <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://gin-gonic.com/" target="_blank" title="Gin (Go)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Gin (Go)" align="middle" /></a>
 </div>
 <br/>
 </details>
@@ -89,8 +97,10 @@
 <summary><b>├── 📂 database</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" align="middle" /></a>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" align="middle" />
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/sql-server/" target="_blank" title="Microsoft SQL Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" align="middle" /></a>
 </div>
 <br/>
 </details>
@@ -99,7 +109,8 @@
 <summary><b>├── 📂 os</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" /></a>
+  <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/windows" target="_blank" title="Windows"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" align="middle" /></a>
 </div>
 <br/>
 </details>
@@ -108,7 +119,11 @@
 <summary><b>└── 📂 tools-and-ide</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,powershell&theme=dark" /></a>
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://cmake.org/" target="_blank" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/powershell/" target="_blank" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" align="middle" /></a>
 </div>
 <br/>
 </details>
