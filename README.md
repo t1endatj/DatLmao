@@ -22,19 +22,31 @@
 
 ---
 
-### 🖥️ `whoami`
+### 🖥️ About Me
 
-```ts
-const dat = {
-  name      : "Nguyen Tien Dat",
-  handle    : "t1endatj",
-  location  : "Vietnam 🇻🇳",
-  stack     : ["JavaScript", "TypeScript", "Python"],
-  interests : ["Frontend Development", "UI/UX Design", "Fullstack Web", "Open Source"],
-  learning  : "Modern fullstack architecture, animations & scalable web systems",
-  status    : "Open to collaborate & build cool things 🚀",
-} as const;
-```
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=2000&color=7928CA&width=400&height=20&lines=Welcome+to+my+GitHub+profile!+👋" alt="welcome" />
+      <br/><br/>
+
+| | |
+|:---:|:---|
+| 👤 | **Nguyen Tien Dat** · `t1endatj` |
+| 📍 | Vietnam 🇻🇳 |
+| 💼 | Web Developer |
+| 🛠️ | JavaScript · TypeScript · Python |
+| 🎯 | Frontend · UI/UX · Fullstack |
+| 📖 | Modern web architecture & beautiful interfaces |
+| 🤝 | Open to collaborate 🚀 |
+
+  </td>
+    <td valign="top" width="45%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
