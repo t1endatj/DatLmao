@@ -52,8 +52,8 @@
   </g>
 
   <!-- Terminal Command Prompt -->
-  <text class="code" x="24" y="60">
-    <tspan class="user">datlmao</tspan><tspan class="p">@</tspan><tspan class="host">linux</tspan><tspan class="p">:</tspan><tspan class="path">~/profile</tspan><tspan class="arrow"> ❯ </tspan><tspan class="cmd">cat profile.json</tspan>
+  <text class="code" x="20" y="60">
+    <tspan class="user">datlmao</tspan><tspan class="p">@</tspan><tspan class="host">linux</tspan><tspan class="p">:</tspan><tspan class="path">~/profile</tspan><tspan class="arrow"> ❯ </tspan><tspan class="cmd">curl -s https://github.com/t1endatj</tspan>
   </text>
 
   <!-- JSON Body -->
