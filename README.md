@@ -1,49 +1,187 @@
+<div align="center">
+  <!-- Dynamic Top Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F0FF,50:7928CA,100:FF0080&height=230&section=header&text=Nguyen%20Tien%20Dat&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=%E2%9C%A8%20Software%20Developer%20%7C%20Creative%20Builder%20%7C%20Tech%20Explorer%20%E2%9C%A8&descSize=18&descAlignY=60" width="100%" alt="Header Banner" />
 
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/t1endatj">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+space;%E2%9A%A1+Passionate+about+clean+code+%26+algorithms;%F0%9F%92%BB+Coding+with+C%2B%2B%2C+JavaScript+%26+modern+tech;%F0%9F%9A%80+Always+learning%2C+building%2C+and+exploring!" alt="Typing SVG" />
+  </a>
 
+  <!-- Quick Status Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=t1endatj&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Location-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-0D1117?style=flat-square&logo=googlemaps&logoColor=red" alt="Vietnam" />
+    <img src="https://img.shields.io/badge/Focus-High%20Performance%20Code-7928CA?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Focus" />
+    <a href="mailto:datnguyendat2006@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-Gmail-FF0080?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%20There%21%20%F0%9F%91%8B%3B%20I%27m%20Dat%21" />
-</h1>
+---
 
+> [!TIP]
+> 💡 **Core Philosophy**: *"First, solve the problem. Then, write the code."* — Striving to write clean, self-documenting code, solid algorithmic solutions, and scalable software.
 
+---
 
+### 🖥️ `whoami.json`
 
+```json
+{
+  "name": "Nguyen Tien Dat",
+  "handle": "t1endatj",
+  "location": "Vietnam 🇻🇳",
+  "languages": ["C++", "JavaScript", "Python"],
+  "focus_areas": [
+    "Data Structures & Algorithms",
+    "High-Performance Computing",
+    "Modern Web Development"
+  ],
+  "current_pursuits": "Sharpening advanced algorithmic problem solving & building impactful projects",
+  "coffee_intake": "Unlimited ☕⚡",
+  "status": "Ready to build, collaborate & innovate 🚀"
+}
+```
 
-# 💻 Tech Stack:
+---
 
-<table>
+## 🛠️ Tech Arsenal & Skills
+
+<div align="center">
+  <!-- SkillIcons Banner -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,html,css,react,nodejs,git,github,vscode,linux,powershell,markdown&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br/>
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50"><br/>
-      <span style="color:white">C++</span>
+    <td align="center" width="33%">
+      <h4>🚀 Core Languages</h4>
+      <p>
+        <code>C++</code> • <code>C</code><br/>
+        <code>JavaScript</code> • <code>Python</code>
+      </p>
     </td>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"><br/>
-      <span style="color:white">JavaScript</span>
+    <td align="center" width="33%">
+      <h4>🌐 Web & Frameworks</h4>
+      <p>
+        <code>HTML5</code> • <code>CSS3</code><br/>
+        <code>React</code> • <code>Node.js</code>
+      </p>
     </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"><br/>
-      <span style="color:white">GitHub</span>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"><br/>
-      <span style="color:white">Git</span>
+    <td align="center" width="33%">
+      <h4>⚙️ Tools & Workflow</h4>
+      <p>
+        <code>Git</code> • <code>GitHub Actions</code><br/>
+        <code>VS Code</code> • <code>Linux</code>
+      </p>
     </td>
   </tr>
 </table>
 
+---
 
+## 📊 Live GitHub Analytics
 
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/t1endatj">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=t1endatj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7928CA&text_color=c9d1d9" alt="Dat's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/t1endatj">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=t1endatj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Dat's Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
+  <br/>
 
-
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/t1endatj">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1endatj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=7928CA&fire=00F0FF&currStreakNum=00F0FF" alt="Dat's GitHub Streak" />
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DatLmao&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
+## 🐍 GitHub Snake Game Animation
 
-![snake gif](https://github.com/DatLmao/DatLmao/blob/output/github-snake-dark.svg)
+<div align="center">
+  <p><i>Autonomous workflow generating the classic snake game eating my daily commit grid</i></p>
 
+  <!-- Responsive Dark/Light Snake Animation generated by GitHub Actions -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1endatj/profile/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t1endatj/profile/output/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/t1endatj/profile/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🔍 More About Me
+
+<details>
+  <summary><b>⚡ Quick Facts & Interests (Click to expand)</b></summary>
+  <br/>
+  <ul>
+    <li>🌱 <b>Learning Path:</b> Constantly exploring systems design, advanced algorithms, and full-stack software architecture.</li>
+    <li>🎯 <b>Problem Solving:</b> Enjoy competitive programming challenges and optimizing time/space complexities.</li>
+    <li>🎧 <b>Vibe:</b> Coding is best paired with high-focus synthwave or lo-fi beats.</li>
+    <li>💬 <b>Collaboration:</b> Always interested in discussing tech innovations and open-source contributions.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🖥️ Developer Workspace & Hardware Specs</b></summary>
+  <br/>
+  <table>
+    <tr><td><b>Processor</b></td><td>12th Gen Intel® Core™ i7-12700H</td></tr>
+    <tr><td><b>OS</b></td><td>Windows 11 + WSL2 (Linux)</td></tr>
+    <tr><td><b>Editor</b></td><td>Visual Studio Code</td></tr>
+    <tr><td><b>Shell</b></td><td>PowerShell 7 & Zsh</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>🎯 Goals & Milestones for 2026</b></summary>
+  <br/>
+  <ul>
+    <li>[x] Build automated CI/CD workflows and rich GitHub portfolio</li>
+    <li>[ ] Develop and deploy high-performance applications with modern stacks</li>
+    <li>[ ] Deep dive into low-level systems programming and software engineering patterns</li>
+    <li>[ ] Expand contributions to the global open-source community</li>
+  </ul>
+</details>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/t1endatj">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:datnguyendat2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/t1endatj">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Dynamic Bottom Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F0FF,50:7928CA,100:FF0080&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
