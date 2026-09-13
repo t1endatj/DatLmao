@@ -47,14 +47,14 @@
 
 <div align="center">
   <a href="https://chatbot.hcmutertic.com" target="_blank" title="Trợ lý AI Khoa CNTT HCMUTE • Django &amp; Next.js">
-    <img src="assets/cards/chatbot-fit.svg" width="395" alt="HCMUTE FIT AI Assistant" />
+    <img src="assets/cards/chatbot-fit-card.svg" width="395" alt="HCMUTE FIT AI Assistant" />
   </a>&nbsp;
   <a href="https://photo.hcmutertic.com" target="_blank" title="Modern Photobooth Kiosk • Gin &amp; Next.js">
-    <img src="assets/cards/photo-booth.svg" width="395" alt="Modern Photobooth Kiosk" />
+    <img src="assets/cards/photo-booth-card.svg" width="395" alt="Modern Photobooth Kiosk" />
   </a>
   <br/>
   <a href="http://25nam.fit.hcmute.edu.vn/" target="_blank" title="FIT HCMUTE 25 Years • NestJS &amp; Next.js">
-    <img src="assets/cards/fit-25years.svg" width="395" alt="FIT HCMUTE 25 Years" />
+    <img src="assets/cards/fit-25years-card.svg" width="395" alt="FIT HCMUTE 25 Years" />
   </a>
 </div>
 
