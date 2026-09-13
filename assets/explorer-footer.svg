@@ -35,6 +35,6 @@
 
   <!-- Right Status: Editor info -->
   <g transform="translate(780, 18)">
-    <text x="0" y="0" text-anchor="end" class="right-text">UTF-8 &nbsp;•&nbsp; Prettier &nbsp;•&nbsp; ⎇ main</text>
+    <text x="0" y="0" text-anchor="end" class="right-text">UTF-8 &#160;•&#160; Prettier &#160;•&#160; ⎇ main</text>
   </g>
 </svg>

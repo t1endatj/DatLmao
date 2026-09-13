@@ -158,7 +158,7 @@
 </details>
 
 <div align="center">
-  <img src="assets/explorer-footer.svg" width="100%" alt="Explorer Window Footer" />
+  <img src="assets/explorer-footer.svg?v=1" width="100%" alt="Explorer Window Footer" />
 </div>
 
 <br/>
