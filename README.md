@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:056BAC,100:00F0FF&height=230&section=header&text=Nguyen%20Tien%20Dat&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=%F0%9F%8C%90%20Web%20Developer&descSize=22&descAlignY=60" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:056BAC,100:00F0FF&height=230&section=header&text=Tien%20Dat&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=%F0%9F%8C%90%20Web%20Developer&descSize=22&descAlignY=60" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/t1endatj">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+space;%F0%9F%8C%90+Crafting+web+experiences+with+passion;%F0%9F%9A%80+Always+learning%2C+building%2C+and+exploring!" alt="Typing SVG" />
