@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F0FF,50:7928CA,100:FF0080&height=230&section=header&text=Nguyen%20Tien%20Dat&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=%E2%9C%A8%20Software%20Developer%20%7C%20Creative%20Builder%20%7C%20Tech%20Explorer%20%E2%9C%A8&descSize=18&descAlignY=60" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F0FF,50:7928CA,100:FF0080&height=230&section=header&text=Nguyen%20Tien%20Dat&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=%F0%9F%8C%90%20Web%20Developer&descSize=22&descAlignY=60" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/t1endatj">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+space;%E2%9A%A1+Passionate+about+clean+code+%26+algorithms;%F0%9F%92%BB+Coding+with+C%2B%2B%2C+JavaScript+%26+modern+tech;%F0%9F%9A%80+Always+learning%2C+building%2C+and+exploring!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+space;%F0%9F%8C%90+Crafting+web+experiences+with+passion;%F0%9F%92%BB+TypeScript+%7C+React+%7C+Node.js+%7C+and+more;%F0%9F%9A%80+Always+learning%2C+building%2C+and+exploring!" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=t1endatj&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Location-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-0D1117?style=flat-square&logo=googlemaps&logoColor=red" alt="Vietnam" />
-    <img src="https://img.shields.io/badge/Focus-High%20Performance%20Code-7928CA?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Web%20Development-7928CA?style=flat-square&logo=webcomponents.org&logoColor=white" alt="Focus" />
     <a href="mailto:datnguyendat2006@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Gmail-FF0080?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -18,7 +18,7 @@
 ---
 
 > [!TIP]
-> 💡 **Core Philosophy**: *"First, solve the problem. Then, write the code."* — Striving to write clean, self-documenting code, solid algorithmic solutions, and scalable software.
+> 💡 **Core Philosophy**: *"The best interface is the one users don't notice."* — Striving to build fast, accessible, and beautiful web experiences that just work.
 
 ---
 
@@ -29,10 +29,9 @@ const dat = {
   name      : "Nguyen Tien Dat",
   handle    : "t1endatj",
   location  : "Vietnam 🇻🇳",
-  languages : ["C++", "C", "JavaScript", "TypeScript", "Python"],
-  interests : ["Algorithms & Data Structures", "Systems Programming", "Web Development"],
-  learning  : "Advanced problem solving, clean architecture & modern fullstack development",
-  fact      : "I turn coffee into code — one commit at a time ☕",
+  stack     : ["JavaScript", "TypeScript", "Python"],
+  interests : ["Frontend Development", "UI/UX Design", "Fullstack Web", "Open Source"],
+  learning  : "Modern fullstack architecture, animations & scalable web systems",
   status    : "Open to collaborate & build cool things 🚀",
 } as const;
 ```
@@ -48,7 +47,7 @@ const dat = {
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>frontend</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" /></a>
 </div>
 <br/>
 </details>
