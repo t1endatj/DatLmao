@@ -47,7 +47,10 @@
 
 <div align="center">
   <a href="https://chatbot.hcmutertic.com" target="_blank" title="Trợ lý AI Khoa CNTT HCMUTE • Click to visit live beta">
-    <img src="assets/cards/chatbot-fit.svg" width="400" alt="HCMUTE FIT AI Assistant" />
+    <img src="assets/cards/chatbot-fit.svg" width="395" alt="HCMUTE FIT AI Assistant" />
+  </a>&nbsp;
+  <a href="https://photo.hcmutertic.com" target="_blank" title="Modern Photobooth Kiosk • Click to visit website">
+    <img src="assets/cards/photo-booth.svg" width="395" alt="Modern Photobooth Kiosk" />
   </a>
 </div>
 
