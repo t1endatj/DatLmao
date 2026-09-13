@@ -200,7 +200,7 @@
   <br/><br/>
 
   <a href="https://github.com/t1endatj">
-    <img src="https://github-readme-activity-graph-nine.vercel.app/graph?username=t1endatj&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=056BAC&point=00F0FF&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
+    <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=t1endatj&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=056BAC&point=00F0FF&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
   </a>
 </div>
 
