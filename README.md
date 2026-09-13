@@ -101,11 +101,13 @@
 <br/>
 </details>
 
-<details>
+<details open>
 <summary><b>├── 📂 backend-frameworks</b></summary>
 <br/>
 <div align="center">
   <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://nestjs.com/" target="_blank" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://gin-gonic.com/" target="_blank" title="Gin (Go)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Gin (Go)" align="middle" /></a>
 </div>
@@ -168,6 +170,12 @@
 ## 📊 Live GitHub Analytics
 
 <div align="center">
+  <a href="https://github.com/t1endatj">
+    <img src="https://github-profile-trophy-one.vercel.app/?username=t1endatj&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+
+  <br/><br/>
+
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="top">
@@ -187,6 +195,12 @@
 
   <a href="https://github.com/t1endatj">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1endatj&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=056BAC&fire=00F0FF&currStreakNum=00F0FF" alt="Dat's GitHub Streak" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/t1endatj">
+    <img src="https://github-readme-activity-graph-nine.vercel.app/graph?username=t1endatj&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=056BAC&point=00F0FF&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
   </a>
 </div>
 

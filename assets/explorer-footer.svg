@@ -27,7 +27,7 @@
     <circle cx="0" cy="-4" r="3.5" fill="#27C93F"/>
     <text x="10" y="0" class="status-text">⚡ Ready</text>
     <text x="70" y="0" class="separator">|</text>
-    <text x="82" y="0" class="status-text">34 Techs Loaded</text>
+    <text x="82" y="0" class="status-text">36 Techs Loaded</text>
   </g>
 
   <!-- Center Text -->
