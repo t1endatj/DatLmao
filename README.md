@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F0FF,50:7928CA,100:FF0080&height=230&section=header&text=Nguyen%20Tien%20Dat&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=%F0%9F%8C%90%20Web%20Developer&descSize=22&descAlignY=60" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/t1endatj">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+space;%F0%9F%8C%90+Crafting+web+experiences+with+passion;%F0%9F%92%BB+TypeScript+%7C+React+%7C+Node.js+%7C+and+more;%F0%9F%9A%80+Always+learning%2C+building%2C+and+exploring!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+space;%F0%9F%8C%90+Crafting+web+experiences+with+passion;%F0%9F%9A%80+Always+learning%2C+building%2C+and+exploring!" alt="Typing SVG" />
+
   </a>
 
   <p align="center">
@@ -26,23 +27,17 @@
 
 <table>
   <tr>
-    <td valign="top" width="55%">
-      <br/>
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=2000&color=7928CA&width=400&height=20&lines=Welcome+to+my+GitHub+profile!+👋" alt="welcome" />
+    <td valign="top" width="52%">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=00F0FF&width=380&height=28&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+profile!;Let%27s+build+something+great." alt="Typing" />
       <br/><br/>
+      <img src="https://img.shields.io/badge/%40t1endatj-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Vietnam-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" />
+      <br/>
+      <img src="https://img.shields.io/badge/Web%20Developer-00F0FF?style=for-the-badge&logo=html5&logoColor=0D1117" />
+    </td>
 
-| | |
-|:---:|:---|
-| 👤 | **Nguyen Tien Dat** · `t1endatj` |
-| 📍 | Vietnam 🇻🇳 |
-| 💼 | Web Developer |
-| 🛠️ | JavaScript · TypeScript · Python |
-| 🎯 | Frontend · UI/UX · Fullstack |
-| 📖 | Modern web architecture & beautiful interfaces |
-| 🤝 | Open to collaborate 🚀 |
-
-  </td>
-    <td valign="top" width="45%">
+    <td valign="top" width="48%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
     </td>
   </tr>
