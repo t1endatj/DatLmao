@@ -36,18 +36,27 @@
 <br/>
 
 <div align="center">
-  <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack" />
+  <a href="https://www.youtube.com/watch?v=4xDzrJKXOOY" target="_blank" title="Click to listen to 24/7 Synthwave & Lo-Fi Coding Radio">
+    <img src="assets/soundtrack.svg" width="100%" alt="Coding Soundtrack (Click to Play)" />
+  </a>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>📁 tech-stack</b></summary>
+<div align="center">
+  <img src="assets/explorer-header.svg" width="100%" alt="Explorer Window" />
+</div>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>frontend</b></summary>
+<details open>
+<summary><b>📁 workspace / tech-stack</b> <code>(click to collapse / expand)</code></summary>
+<br/>
+
+<blockquote>
+
+<details open>
+<summary><b>├── 📂 frontend</b></summary>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" /></a>
@@ -56,38 +65,38 @@
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>frontend-libraries</b></summary>
+<summary><b>├── 📂 frontend-libraries</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" /></a>
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" title="GSAP" />
-  <img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="48" height="48" alt="shadcn/ui" title="shadcn/ui" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" align="middle" /></a>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP" title="GSAP" align="middle" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/ffffff" width="48" height="48" alt="shadcn/ui" title="shadcn/ui" align="middle" />
 </div>
 <br/>
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>backend-frameworks</b></summary>
+<summary><b>├── 📂 backend-frameworks</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Gin (Go)" title="Gin (Go)" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark" align="middle" /></a>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Gin (Go)" title="Gin (Go)" align="middle" />
 </div>
 <br/>
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>database</b></summary>
+<summary><b>├── 📂 database</b></summary>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" align="middle" /></a>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" align="middle" />
 </div>
 <br/>
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>os</b></summary>
+<summary><b>├── 📂 os</b></summary>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" /></a>
@@ -96,7 +105,7 @@
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📂 <b>tools-and-ide</b></summary>
+<summary><b>└── 📂 tools-and-ide</b></summary>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,powershell&theme=dark" /></a>
@@ -104,6 +113,7 @@
 <br/>
 </details>
 
+</blockquote>
 </details>
 
 

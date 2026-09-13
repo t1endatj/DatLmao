@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="100%" height="auto">
+  <defs>
+    <linearGradient id="exp-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#7928CA" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FF0080" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="exp-header" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1C2128"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; fill: #8B949E; font-weight: 600; letter-spacing: 0.5px; }
+    .branch { font-family: ui-monospace, SFMono-Regular, monospace; font-size: 11px; fill: #00F0FF; font-weight: 500; }
+  </style>
+
+  <!-- Window Header -->
+  <path d="M 1 12 A 10 10 0 0 1 11 1 L 789 1 A 10 10 0 0 1 799 12 L 799 39 L 1 39 Z" fill="url(#exp-header)" stroke="url(#exp-border)" stroke-width="1.2"/>
+  <line x1="1" y1="39" x2="799" y2="39" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Traffic Lights -->
+  <circle cx="24" cy="20" r="6" fill="#FF5F56"/>
+  <circle cx="42" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="60" cy="20" r="6" fill="#27C93F"/>
+
+  <!-- Center Title -->
+  <text x="400" y="24" text-anchor="middle" class="title">📁 EXPLORER : TECH-STACK (WORKSPACE)</text>
+
+  <!-- Right Git Status Indicator -->
+  <g transform="translate(680, 24)">
+    <text x="0" y="0" class="branch">⎇ main • 6 dirs</text>
+  </g>
+</svg>
