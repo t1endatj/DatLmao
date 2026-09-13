@@ -123,8 +123,14 @@
   <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" align="middle" /></a>&nbsp;&nbsp;
-  <a href="https://cmake.org/" target="_blank" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" align="middle" /></a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/powershell/" target="_blank" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" align="middle" /></a>
+  <a href="https://antigravity.google/" target="_blank" title="Antigravity IDE"><img src="assets/icons/antigravity.png" width="48" height="48" alt="Antigravity IDE" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://openai.com/" target="_blank" title="OpenAI Codex"><img src="assets/icons/codex.svg" width="48" height="48" alt="OpenAI Codex" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://swagger.io/" target="_blank" title="Swagger"><img src="assets/icons/swagger.svg" width="48" height="48" alt="Swagger" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://vercel.com/" target="_blank" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://vite.dev/" target="_blank" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" align="middle" /></a>
 </div>
 <br/>
 </details>
