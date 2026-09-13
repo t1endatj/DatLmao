@@ -26,21 +26,20 @@
 ### 🖥️ About Me
 
 <table>
-  <tr>
-    <td valign="top" width="52%">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=00F0FF&width=380&height=28&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+profile!;Let%27s+build+something+great." alt="Typing" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/%40t1endatj-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Vietnam-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" />
-      <br/>
-      <img src="https://img.shields.io/badge/Web%20Developer-00F0FF?style=for-the-badge&logo=html5&logoColor=0D1117" />
-    </td>
-
-    <td valign="top" width="48%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
-    </td>
-  </tr>
+<tr>
+<td valign="middle" width="50%">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=00F0FF&width=380&height=30&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+profile!;Let%27s+build+something+great." alt="Typing" />
+<br/><br/>
+<img src="https://img.shields.io/badge/%40t1endatj-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Vietnam-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Web%20Developer-00F0FF?style=for-the-badge&logo=html5&logoColor=0D1117" />
+</td>
+<td valign="middle" width="50%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+</td>
+</tr>
 </table>
 
 ---
