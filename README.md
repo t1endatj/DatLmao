@@ -99,7 +99,6 @@
 <div align="center">
   <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" align="middle" /></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/sql-server/" target="_blank" title="Microsoft SQL Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" align="middle" /></a>
 </div>
 <br/>
