@@ -25,7 +25,7 @@
 <table width="100%">
 <tr>
 <td width="60%" valign="middle">
-<img src="assets/terminal.svg" width="100%" alt="Developer Terminal" />
+<img src="assets/terminal.svg?v=3" width="100%" alt="Developer Terminal" />
 </td>
 <td width="40%" align="center" valign="middle">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
