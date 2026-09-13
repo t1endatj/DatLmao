@@ -43,6 +43,16 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://chatbot.hcmutertic.com" target="_blank" title="Trợ lý AI Khoa CNTT HCMUTE • Click to visit live beta">
+    <img src="assets/cards/chatbot-fit.svg" width="400" alt="HCMUTE FIT AI Assistant" />
+  </a>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
