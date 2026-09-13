@@ -124,7 +124,7 @@
   <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://antigravity.google/" target="_blank" title="Antigravity IDE"><img src="assets/icons/antigravity.png" width="48" height="48" alt="Antigravity IDE" align="middle" /></a>&nbsp;&nbsp;
-  <a href="https://openai.com/" target="_blank" title="OpenAI Codex"><img src="assets/icons/codex.svg" width="48" height="48" alt="OpenAI Codex" align="middle" /></a>&nbsp;&nbsp;
+  <a href="https://openai.com/" target="_blank" title="Codex"><img src="assets/icons/codex.png" width="48" height="48" alt="Codex" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://swagger.io/" target="_blank" title="Swagger"><img src="assets/icons/swagger.svg" width="48" height="48" alt="Swagger" align="middle" /></a>&nbsp;&nbsp;
