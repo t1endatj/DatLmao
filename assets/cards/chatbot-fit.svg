@@ -26,13 +26,13 @@
 
   <!-- Footer Info -->
   <g transform="translate(20, 97)">
-    <!-- Python -->
-    <circle cx="5" cy="5" r="4.5" fill="#3572A5"/>
-    <text x="14" y="9" class="meta">Python</text>
+    <!-- Django -->
+    <circle cx="5" cy="5" r="4.5" fill="#44B78B"/>
+    <text x="14" y="9" class="meta">Django</text>
 
-    <!-- TypeScript -->
-    <circle cx="68" cy="5" r="4.5" fill="#3178C6"/>
-    <text x="77" y="9" class="meta">TypeScript</text>
+    <!-- Next.js -->
+    <circle cx="68" cy="5" r="4.5" fill="#0070F3"/>
+    <text x="77" y="9" class="meta">Next.js</text>
 
     <!-- Live Deploy Link Badge -->
     <g transform="translate(180, -5)">

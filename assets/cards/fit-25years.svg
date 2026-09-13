@@ -20,15 +20,19 @@
 
   <!-- Description -->
   <text x="20" y="55" class="desc">
-    <tspan x="20" dy="0">Hệ thống kỷ niệm 25 năm thành lập Khoa CNTT:</tspan>
-    <tspan x="20" dy="17">Next.js 16, NestJS 11, Prisma, Redis &amp; MinIO S3</tspan>
+    <tspan x="20" dy="0">Hệ thống kỷ niệm 25 năm thành lập Khoa CNTT HCMUTE:</tspan>
+    <tspan x="20" dy="17">Cổng thông tin sự kiện, tri ân &amp; kết nối cựu sinh viên</tspan>
   </text>
 
   <!-- Footer Info -->
   <g transform="translate(20, 97)">
-    <!-- TypeScript -->
-    <circle cx="5" cy="5" r="4.5" fill="#3178C6"/>
-    <text x="14" y="9" class="meta">TypeScript</text>
+    <!-- NestJS -->
+    <circle cx="5" cy="5" r="4.5" fill="#E0234E"/>
+    <text x="14" y="9" class="meta">NestJS</text>
+
+    <!-- Next.js -->
+    <circle cx="68" cy="5" r="4.5" fill="#0070F3"/>
+    <text x="77" y="9" class="meta">Next.js</text>
 
     <!-- Live Deploy Link Badge -->
     <g transform="translate(170, -5)">

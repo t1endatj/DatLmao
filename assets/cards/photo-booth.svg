@@ -20,19 +20,19 @@
 
   <!-- Description -->
   <text x="20" y="55" class="desc">
-    <tspan x="20" dy="0">Kiosk chụp ảnh lấy liền &amp; Album QR di động:</tspan>
-    <tspan x="20" dy="17">Next.js 16, Golang Gin API, MinIO S3 &amp; Canvas 300DPI</tspan>
+    <tspan x="20" dy="0">Hệ thống Photobooth chụp ảnh lấy liền &amp; Kiosk cảm ứng:</tspan>
+    <tspan x="20" dy="17">Xử lý ghép khung tức thời &amp; phát hành album mã QR</tspan>
   </text>
 
   <!-- Footer Info -->
   <g transform="translate(20, 97)">
-    <!-- Go -->
+    <!-- Gin -->
     <circle cx="5" cy="5" r="4.5" fill="#00ADD8"/>
-    <text x="14" y="9" class="meta">Go</text>
+    <text x="14" y="9" class="meta">Gin</text>
 
-    <!-- TypeScript -->
-    <circle cx="50" cy="5" r="4.5" fill="#3178C6"/>
-    <text x="59" y="9" class="meta">TypeScript</text>
+    <!-- Next.js -->
+    <circle cx="52" cy="5" r="4.5" fill="#0070F3"/>
+    <text x="61" y="9" class="meta">Next.js</text>
 
     <!-- Live Deploy Link Badge -->
     <g transform="translate(195, -5)">
